@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Alumnos_PROG_U5_P5.2\Alumnos_PROG_U5_P5.2\bin\Debug\Alumnos_PROG_U5_P5.2.exe.config
+C:\Users\User\source\repos\Alumnos_PROG_U5_P5.2\Alumnos_PROG_U5_P5.2\bin\Debug\Alumnos_PROG_U5_P5.2.exe
+C:\Users\User\source\repos\Alumnos_PROG_U5_P5.2\Alumnos_PROG_U5_P5.2\bin\Debug\Alumnos_PROG_U5_P5.2.pdb
+C:\Users\User\source\repos\Alumnos_PROG_U5_P5.2\Alumnos_PROG_U5_P5.2\obj\Debug\Alumnos_PROG_U5_P5.2.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Alumnos_PROG_U5_P5.2\Alumnos_PROG_U5_P5.2\obj\Debug\Alumnos_PROG_U5_P5.2.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\Alumnos_PROG_U5_P5.2\Alumnos_PROG_U5_P5.2\obj\Debug\Alumnos_PROG_U5_P5._2.FrmAlumnos.resources
+C:\Users\User\source\repos\Alumnos_PROG_U5_P5.2\Alumnos_PROG_U5_P5.2\obj\Debug\Alumnos_PROG_U5_P5._2.Properties.Resources.resources
+C:\Users\User\source\repos\Alumnos_PROG_U5_P5.2\Alumnos_PROG_U5_P5.2\obj\Debug\Alumnos_PROG_U5_P5.2.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Alumnos_PROG_U5_P5.2\Alumnos_PROG_U5_P5.2\obj\Debug\Alumnos_PROG_U5_P5.2.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Alumnos_PROG_U5_P5.2\Alumnos_PROG_U5_P5.2\obj\Debug\Alumnos_PROG_U5_P5.2.exe
+C:\Users\User\source\repos\Alumnos_PROG_U5_P5.2\Alumnos_PROG_U5_P5.2\obj\Debug\Alumnos_PROG_U5_P5.2.pdb

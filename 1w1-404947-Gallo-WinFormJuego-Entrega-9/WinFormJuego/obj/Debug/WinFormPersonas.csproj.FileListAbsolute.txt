@@ -1,0 +1,44 @@
+C:\Users\Martin\source\repos\WinFormPersonas\bin\Debug\WinFormPersonas.exe.config
+C:\Users\Martin\source\repos\WinFormPersonas\bin\Debug\WinFormPersonas.exe
+C:\Users\Martin\source\repos\WinFormPersonas\bin\Debug\WinFormPersonas.pdb
+C:\Users\Martin\source\repos\WinFormPersonas\obj\Debug\WinFormPersonas.csproj.AssemblyReference.cache
+C:\Users\Martin\source\repos\WinFormPersonas\obj\Debug\WinFormPersonas.csproj.SuggestedBindingRedirects.cache
+C:\Users\Martin\source\repos\WinFormPersonas\obj\Debug\WinFormPersonas.Properties.Resources.resources
+C:\Users\Martin\source\repos\WinFormPersonas\obj\Debug\WinFormPersonas.csproj.GenerateResource.cache
+C:\Users\Martin\source\repos\WinFormPersonas\obj\Debug\WinFormPersonas.csproj.CoreCompileInputs.cache
+C:\Users\Martin\source\repos\WinFormPersonas\obj\Debug\WinFormPersonas.exe
+C:\Users\Martin\source\repos\WinFormPersonas\obj\Debug\WinFormPersonas.pdb
+C:\Users\Martin\source\repos\WinFormPersonas\obj\Debug\WinFormPersonas.FrmJuego.resources
+C:\Users\esteb\Downloads\WinFormJuego (2)\WinFormJuego\bin\Debug\WinFormPersonas.exe.config
+C:\Users\esteb\Downloads\WinFormJuego (2)\WinFormJuego\bin\Debug\WinFormPersonas.exe
+C:\Users\esteb\Downloads\WinFormJuego (2)\WinFormJuego\bin\Debug\WinFormPersonas.pdb
+C:\Users\esteb\Downloads\WinFormJuego (2)\WinFormJuego\obj\Debug\WinFormPersonas.csproj.AssemblyReference.cache
+C:\Users\esteb\Downloads\WinFormJuego (2)\WinFormJuego\obj\Debug\WinFormPersonas.csproj.SuggestedBindingRedirects.cache
+C:\Users\esteb\Downloads\WinFormJuego (2)\WinFormJuego\obj\Debug\WinFormPersonas.FrmJuego.resources
+C:\Users\esteb\Downloads\WinFormJuego (2)\WinFormJuego\obj\Debug\WinFormPersonas.Properties.Resources.resources
+C:\Users\esteb\Downloads\WinFormJuego (2)\WinFormJuego\obj\Debug\WinFormPersonas.csproj.GenerateResource.cache
+C:\Users\esteb\Downloads\WinFormJuego (2)\WinFormJuego\obj\Debug\WinFormPersonas.csproj.CoreCompileInputs.cache
+C:\Users\esteb\Downloads\WinFormJuego (2)\WinFormJuego\obj\Debug\WinFormPersonas.exe
+C:\Users\esteb\Downloads\WinFormJuego (2)\WinFormJuego\obj\Debug\WinFormPersonas.pdb
+C:\Users\User\OneDrive\Escritorio\UTN-TUP\PROG I\Parte 2\Acts\405226_WinFormJuego\WinFormJuego\bin\Debug\WinFormPersonas.exe.config
+C:\Users\User\OneDrive\Escritorio\UTN-TUP\PROG I\Parte 2\Acts\405226_WinFormJuego\WinFormJuego\bin\Debug\WinFormPersonas.exe
+C:\Users\User\OneDrive\Escritorio\UTN-TUP\PROG I\Parte 2\Acts\405226_WinFormJuego\WinFormJuego\bin\Debug\WinFormPersonas.pdb
+C:\Users\User\OneDrive\Escritorio\UTN-TUP\PROG I\Parte 2\Acts\405226_WinFormJuego\WinFormJuego\obj\Debug\WinFormPersonas.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Escritorio\UTN-TUP\PROG I\Parte 2\Acts\405226_WinFormJuego\WinFormJuego\obj\Debug\WinFormPersonas.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\OneDrive\Escritorio\UTN-TUP\PROG I\Parte 2\Acts\405226_WinFormJuego\WinFormJuego\obj\Debug\WinFormPersonas.FrmJuego.resources
+C:\Users\User\OneDrive\Escritorio\UTN-TUP\PROG I\Parte 2\Acts\405226_WinFormJuego\WinFormJuego\obj\Debug\WinFormPersonas.Properties.Resources.resources
+C:\Users\User\OneDrive\Escritorio\UTN-TUP\PROG I\Parte 2\Acts\405226_WinFormJuego\WinFormJuego\obj\Debug\WinFormPersonas.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Escritorio\UTN-TUP\PROG I\Parte 2\Acts\405226_WinFormJuego\WinFormJuego\obj\Debug\WinFormPersonas.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Escritorio\UTN-TUP\PROG I\Parte 2\Acts\405226_WinFormJuego\WinFormJuego\obj\Debug\WinFormPersonas.exe
+C:\Users\User\OneDrive\Escritorio\UTN-TUP\PROG I\Parte 2\Acts\405226_WinFormJuego\WinFormJuego\obj\Debug\WinFormPersonas.pdb
+C:\Users\User\OneDrive\Escritorio\UTN-TUP\PROG I\Parte 2\Acts\1w1-404947-Gallo-WinFormJuego\WinFormJuego\bin\Debug\WinFormPersonas.exe.config
+C:\Users\User\OneDrive\Escritorio\UTN-TUP\PROG I\Parte 2\Acts\1w1-404947-Gallo-WinFormJuego\WinFormJuego\bin\Debug\WinFormPersonas.exe
+C:\Users\User\OneDrive\Escritorio\UTN-TUP\PROG I\Parte 2\Acts\1w1-404947-Gallo-WinFormJuego\WinFormJuego\bin\Debug\WinFormPersonas.pdb
+C:\Users\User\OneDrive\Escritorio\UTN-TUP\PROG I\Parte 2\Acts\1w1-404947-Gallo-WinFormJuego\WinFormJuego\obj\Debug\WinFormPersonas.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Escritorio\UTN-TUP\PROG I\Parte 2\Acts\1w1-404947-Gallo-WinFormJuego\WinFormJuego\obj\Debug\WinFormPersonas.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\OneDrive\Escritorio\UTN-TUP\PROG I\Parte 2\Acts\1w1-404947-Gallo-WinFormJuego\WinFormJuego\obj\Debug\WinFormPersonas.FrmJuego.resources
+C:\Users\User\OneDrive\Escritorio\UTN-TUP\PROG I\Parte 2\Acts\1w1-404947-Gallo-WinFormJuego\WinFormJuego\obj\Debug\WinFormPersonas.Properties.Resources.resources
+C:\Users\User\OneDrive\Escritorio\UTN-TUP\PROG I\Parte 2\Acts\1w1-404947-Gallo-WinFormJuego\WinFormJuego\obj\Debug\WinFormPersonas.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Escritorio\UTN-TUP\PROG I\Parte 2\Acts\1w1-404947-Gallo-WinFormJuego\WinFormJuego\obj\Debug\WinFormPersonas.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Escritorio\UTN-TUP\PROG I\Parte 2\Acts\1w1-404947-Gallo-WinFormJuego\WinFormJuego\obj\Debug\WinFormPersonas.exe
+C:\Users\User\OneDrive\Escritorio\UTN-TUP\PROG I\Parte 2\Acts\1w1-404947-Gallo-WinFormJuego\WinFormJuego\obj\Debug\WinFormPersonas.pdb

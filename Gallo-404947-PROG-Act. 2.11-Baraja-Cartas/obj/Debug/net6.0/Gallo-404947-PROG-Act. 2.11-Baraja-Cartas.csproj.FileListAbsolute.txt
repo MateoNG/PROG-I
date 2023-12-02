@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\Gallo-404947-PROG-Act. 2.11-Baraja-Cartas\bin\Debug\net6.0\Gallo-404947-PROG-Act. 2.11-Baraja-Cartas.exe
+C:\Users\User\source\repos\Gallo-404947-PROG-Act. 2.11-Baraja-Cartas\bin\Debug\net6.0\Gallo-404947-PROG-Act. 2.11-Baraja-Cartas.deps.json
+C:\Users\User\source\repos\Gallo-404947-PROG-Act. 2.11-Baraja-Cartas\bin\Debug\net6.0\Gallo-404947-PROG-Act. 2.11-Baraja-Cartas.runtimeconfig.json
+C:\Users\User\source\repos\Gallo-404947-PROG-Act. 2.11-Baraja-Cartas\bin\Debug\net6.0\Gallo-404947-PROG-Act. 2.11-Baraja-Cartas.dll
+C:\Users\User\source\repos\Gallo-404947-PROG-Act. 2.11-Baraja-Cartas\bin\Debug\net6.0\Gallo-404947-PROG-Act. 2.11-Baraja-Cartas.pdb
+C:\Users\User\source\repos\Gallo-404947-PROG-Act. 2.11-Baraja-Cartas\obj\Debug\net6.0\Gallo-404947-PROG-Act. 2.11-Baraja-Cartas.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Gallo-404947-PROG-Act. 2.11-Baraja-Cartas\obj\Debug\net6.0\Gallo-404947-PROG-Act. 2.11-Baraja-Cartas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Gallo-404947-PROG-Act. 2.11-Baraja-Cartas\obj\Debug\net6.0\Gallo-404947-PROG-Act. 2.11-Baraja-Cartas.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Gallo-404947-PROG-Act. 2.11-Baraja-Cartas\obj\Debug\net6.0\Gallo-404947-PROG-Act. 2.11-Baraja-Cartas.AssemblyInfo.cs
+C:\Users\User\source\repos\Gallo-404947-PROG-Act. 2.11-Baraja-Cartas\obj\Debug\net6.0\Gallo-404947-PROG-Act. 2.11-Baraja-Cartas.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Gallo-404947-PROG-Act. 2.11-Baraja-Cartas\obj\Debug\net6.0\Gallo-404947-PROG-Act. 2.11-Baraja-Cartas.dll
+C:\Users\User\source\repos\Gallo-404947-PROG-Act. 2.11-Baraja-Cartas\obj\Debug\net6.0\refint\Gallo-404947-PROG-Act. 2.11-Baraja-Cartas.dll
+C:\Users\User\source\repos\Gallo-404947-PROG-Act. 2.11-Baraja-Cartas\obj\Debug\net6.0\Gallo-404947-PROG-Act. 2.11-Baraja-Cartas.pdb
+C:\Users\User\source\repos\Gallo-404947-PROG-Act. 2.11-Baraja-Cartas\obj\Debug\net6.0\Gallo-404947-PROG-Act. 2.11-Baraja-Cartas.genruntimeconfig.cache
+C:\Users\User\source\repos\Gallo-404947-PROG-Act. 2.11-Baraja-Cartas\obj\Debug\net6.0\ref\Gallo-404947-PROG-Act. 2.11-Baraja-Cartas.dll

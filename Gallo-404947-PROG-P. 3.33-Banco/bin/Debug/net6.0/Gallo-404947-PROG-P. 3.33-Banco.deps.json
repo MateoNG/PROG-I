@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Gallo-404947-PROG-P. 3.33-Banco/1.0.0": {
+        "runtime": {
+          "Gallo-404947-PROG-P. 3.33-Banco.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Gallo-404947-PROG-P. 3.33-Banco/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

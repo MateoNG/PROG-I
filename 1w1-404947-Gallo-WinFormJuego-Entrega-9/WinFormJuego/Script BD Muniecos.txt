@@ -1,0 +1,16 @@
+--PROG
+
+--Entrega sem. 9
+
+--Script de la BD
+
+CREATEDATABASE PROG_Entrega_9_404947
+
+USE PROG_Entrega_9_404947
+
+Create table Muniecos(
+Id int identity(1,1),
+Nombre varchar(50),
+Energia int
+Constraint pk_muniecos primary key (Id)
+)

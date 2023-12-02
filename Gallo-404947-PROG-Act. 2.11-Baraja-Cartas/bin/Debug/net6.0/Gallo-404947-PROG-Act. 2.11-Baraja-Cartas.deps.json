@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Gallo-404947-PROG-Act. 2.11-Baraja-Cartas/1.0.0": {
+        "runtime": {
+          "Gallo-404947-PROG-Act. 2.11-Baraja-Cartas.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Gallo-404947-PROG-Act. 2.11-Baraja-Cartas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
